@@ -1,0 +1,26 @@
+#map{
+  
+  border-radius: 5px;
+  border-style: solid;
+  border-color:black;
+  color:black;
+  height: 575px; 
+width: 100%;
+
+}
+#do{
+  font-weight: bold;
+ /* background:linear-gradient(to right,rgb(196, 49, 196),rgb(248, 166, 14));
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-family: 'Lexend Tera', sans-serif;
+-webkit-text-fill-color: transparent;*/
+ text-align: center;
+  margin-top:10px;
+  font-family: 'Lexend Tera', sans-serif;
+  color: black;
+}
+
+body {
+background-color: white !important;
+}
